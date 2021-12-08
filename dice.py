@@ -17,3 +17,4 @@ if choseb == 4:
     print("i eat 4 pizas")
 if choseb == 5:
     print("error.5 jk 5 ")
+privatemassage = ("read help read me to understand")
